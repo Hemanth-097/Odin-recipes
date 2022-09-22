@@ -1,5 +1,5 @@
+<h1>Odin Recepies</h1>
 
-<h1>odin-recipes</h1>
+odin-recipes
 Recipe-website
-<br>
-
+This is basci receipe website built from scratch using HTML and CSS
